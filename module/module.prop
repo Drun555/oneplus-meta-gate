@@ -1,0 +1,6 @@
+id=oneplus_meta_gate
+name=OnePlus Meta Gate
+version=1.2.0
+versionCode=120
+author=Codex
+description=Fixes physical OnePlus Escape mapping, blocks Search, routes Meta only to remote apps without Android shortcuts, and delivers Escape raw to all apps. Built for crDroid 12.12 v12.12-20260916 (OPD2415).

@@ -1,0 +1,8 @@
+*.class
+*.dex
+*.apk
+*.jar
+*.zip
+*.keystore
+*.jks
+__pycache__/
