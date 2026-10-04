@@ -25,7 +25,8 @@ v12.12-20260916, Android 16 (security patch 2026-09-01).
   Пока Meta удерживается вне исключений, сочетания с ней поглощаются целиком.
 - В активном окне Artemis (`com.limelight.noir`), Moonlight (`com.limelight`),
   Windows App (`com.microsoft.rdc.androidx`) и старого Microsoft Remote Desktop
-  (`com.microsoft.rdc.android`) Meta и сочетания доставляются приложению,
+  (`com.microsoft.rdc.android`), Punktfunk (`io.unom.punktfunk`) и Nova
+  (`com.papi.nova`) Meta и сочетания доставляются приложению,
   минуя системные обработчики Android. Далее отправкой хосту занимается клиент.
 - На заблокированном экране исключения не действуют.
 - Список применяется к окнам приложения, в том числе вне удалённой сессии.

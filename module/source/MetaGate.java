@@ -16,7 +16,8 @@ public final class MetaGate {
     private static final Set<Long> queued = new HashSet<>();
     private static final Map<Long, IBinder> routed = new HashMap<>();
     private static Set<String> apps = new HashSet<>(Arrays.asList(
-        "com.limelight", "com.limelight.noir", "com.microsoft.rdc.androidx", "com.microsoft.rdc.android"));
+        "com.limelight", "com.limelight.noir", "com.microsoft.rdc.androidx", "com.microsoft.rdc.android",
+        "io.unom.punktfunk", "com.papi.nova"));
     private static long lastRead = -3000;
     private static Method getInfo;
     private static Field ownerUid;
